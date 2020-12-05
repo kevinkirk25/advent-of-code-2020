@@ -1,0 +1,570 @@
+pid 63201172 None
+False ---------------> pid
+pid 333051831 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 158388040 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 707057570 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 241741372 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 686617364 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 253005469 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 174cm None
+False ---------------> pid
+pid 24061445 None
+False ---------------> pid
+pid 981178503 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 566993828 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> iyr
+pid 350079989 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 162999623 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> ecl
+pid 560836007 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid #cdc803 None
+False ---------------> pid
+pid 322103252 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 412419084 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 704914380 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 467662306 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 224593036 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 9756449964 None
+False ---------------> pid
+pid 618350852 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 3395281192 None
+False ---------------> pid
+pid 735212085 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 551149968 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 131239468 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid #ffa971 None
+False ---------------> pid
+False ---------------> pid
+pid 599490023 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid #7149ad None
+False ---------------> pid
+pid 190259199 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 427760590 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 23861701 None
+False ---------------> pid
+pid 450691994 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> iyr
+pid 040253250 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 454637740 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 747653564 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 086130104 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 501068596 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 955229652 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 556956304 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> iyr
+pid 734176827 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> eyr
+pid 040278061 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 844348663 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 912948357 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> iyr
+pid 084736292 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 811644928 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 530452683 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> eyr
+pid 144377866 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> byr
+pid 868386570 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> eyr
+pid 603503348 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 852954158 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> byr
+pid 113005290 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 317467924 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 337133478 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid #3e66a7 None
+False ---------------> pid
+pid 577607614 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 738554684 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> ecl
+pid 178cm None
+False ---------------> pid
+pid #e7e9cb None
+False ---------------> pid
+pid 192cm None
+False ---------------> pid
+pid 7218132701 None
+False ---------------> pid
+pid 117261833 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 780384540 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 218314886 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 175cm None
+False ---------------> pid
+pid 488831953 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> eyr
+pid 506597451 <_sre.SRE_Match object at 0x10a7a3578>
+True
+False ---------------> pid
+pid 996355557 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 812982189 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 336806720 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> ecl
+pid 178cm None
+False ---------------> pid
+pid 201047563 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 25086180 None
+False ---------------> pid
+False ---------------> pid
+pid 753746076 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 688172460 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 676564085 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 60834390 None
+False ---------------> pid
+pid 270499403 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> ecl
+pid 091281559 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 549433891 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 696577272 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 475642195 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 518398763 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 614116723 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 862420089 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> iyr
+pid 851985534 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 246933107 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 317156081 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> ecl
+pid 206504353 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 722601936 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 563550743 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 321394231 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 770796086 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 587360691 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 235352975 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 2844744 None
+False ---------------> pid
+pid 491912610 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> ecl
+pid 365229485 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 473100400 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 137807160 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 272344138 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 959415175 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> iyr
+pid 253742161 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 838040028 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 311113967 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 442064310 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 290578586 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 913461954 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 810497375 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 857730031 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 185778821 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 124626004 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 737015681 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 2986469633 None
+False ---------------> pid
+pid 94309916 None
+False ---------------> pid
+pid 172238204 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 266747822 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 839681159 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hcl
+pid 352711700 <_sre.SRE_Match object at 0x10a7a3510>
+True
+False ---------------> pid
+pid 922679610 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 0384056779 None
+False ---------------> pid
+pid 858360477 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 110129489 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 085427066 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 060674566 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 242827141 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> ecl
+pid 740118192 <_sre.SRE_Match object at 0x10a7a3510>
+True
+False ---------------> pid
+False ---------------> pid
+pid 251296833 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 556895048 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> iyr
+pid 821204904 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hcl
+pid 158cm None
+False ---------------> pid
+pid 258135663 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 748344702 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid #1589e0 None
+False ---------------> pid
+pid 125663066 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 092887457 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 180cm None
+False ---------------> pid
+pid 257666411 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 971402454 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 577424639 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 029502840 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 0489471320 None
+False ---------------> pid
+pid 3785138563 None
+False ---------------> pid
+pid 868785127 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 433437105 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 101835436 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 9214728 None
+False ---------------> pid
+pid 924517068 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid #f6ce52 None
+False ---------------> pid
+pid 565022102 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 969724332 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 798083560 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 950689613 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 4316019547 None
+False ---------------> pid
+pid 843348901 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> iyr
+pid 286247733 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 376332625 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> ecl
+pid 792881807 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hcl
+pid 197167496 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 389358116 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hcl
+pid 116325531 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 787859682 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 034440951 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 449374426 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> eyr
+pid 208681353 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> byr
+pid 328556776 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid #7bd019 None
+False ---------------> pid
+pid 640680934 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid #a3c9ea None
+False ---------------> pid
+pid 615665716 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 752461325 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 186570962 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 407719342 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 154cm None
+False ---------------> pid
+pid 017095362 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 897403026 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 894689339 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 125553946 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hcl
+pid 1213613355 None
+False ---------------> pid
+pid 255938897 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 670713784 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 323449427 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 841608722 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> iyr
+pid 501920795 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 436811356 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid #02516a None
+False ---------------> pid
+pid 167cm None
+False ---------------> pid
+pid 279251948 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> eyr
+pid 741958450 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid #d98df3 None
+False ---------------> pid
+pid 764478810 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 450816410 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 168777528 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 161cm None
+False ---------------> pid
+pid 177837127 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 375018246 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 161cm None
+False ---------------> pid
+pid 752141341 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 186060112 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 974271891 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 037981552 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 412817852 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> byr
+pid 008152501 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 877401308 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 590581021 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 064901580 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hcl
+pid 497814257 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> ecl
+pid 033393224 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 9391986394 None
+False ---------------> pid
+pid #400a21 None
+False ---------------> pid
+pid 84195182 None
+False ---------------> pid
+pid 102379515 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 236611157 <_sre.SRE_Match object at 0x10a7a3578>
+True
+False ---------------> pid
+pid 12371575 None
+False ---------------> pid
+pid 402013776 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> ecl
+pid 0269051559 None
+False ---------------> pid
+False ---------------> pid
+pid 096076686 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> ecl
+pid 751516675 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 169307999 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 167cm None
+False ---------------> pid
+pid 638820661 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 717452826 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 54503219 None
+False ---------------> pid
+False ---------------> pid
+pid 833178609 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> eyr
+pid 499271062 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 297210449 <_sre.SRE_Match object at 0x10a7a3510>
+True
+False ---------------> pid
+pid 091886000 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 514758507 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 367909831 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hcl
+pid 238901177 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 916654189 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 944033881 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 638190538 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 231006970 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 314310197 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 951911095 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> ecl
+pid 328148585 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> iyr
+pid 456453839 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 983735096 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 558527031 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 384664729 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 1722490341 None
+False ---------------> pid
+pid 509264482 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 967128169 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 750303088 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 401425898 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> ecl
+pid 748539736 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 325296854 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 082777116 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 144881592 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 645291123 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 922956941 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 269079906 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> eyr
+pid 052476816 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 327064207 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 638854420 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 622875187 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 437813485 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 043039693 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid #fd7ad7 None
+False ---------------> pid
+pid 090346629 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 50216290 None
+False ---------------> pid
+pid 791682756 <_sre.SRE_Match object at 0x10a7a3578>
+True
+pid 735796617 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> hgt
+pid 628854394 <_sre.SRE_Match object at 0x10a7a3510>
+False ---------------> byr
+pid #a8f973 None
+False ---------------> pid
+pid 086190379 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hcl
+pid 208921120 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 024722981 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> eyr
+pid 380513483 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> ecl
+pid 302044900 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 672033747 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 391597648 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> eyr
+False ---------------> pid
+pid 322775528 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 764315947 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> iyr
+pid 800222003 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 795434985 <_sre.SRE_Match object at 0x10a7a3510>
+True
+pid 713080083 <_sre.SRE_Match object at 0x10a7a3578>
+False ---------------> hgt
+pid 431742871 <_sre.SRE_Match object at 0x10a7a3510>
+True
+150
